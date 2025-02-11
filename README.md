@@ -1,2 +1,2 @@
-# AdriansWorkshop.github.io
+# AdriansWorkshop
 personal progress portfolio
